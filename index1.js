@@ -1,0 +1,1 @@
+const primeira =0
